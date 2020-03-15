@@ -27,6 +27,12 @@ from [this](https://www.youtube.com/watch?v=DHD1-2P94DI) youtube link.
 
 
 # Getting started
+# Dependencies
+Get the below Dependencies from the mentioned package managers:
+- pip install scipy
+- conda install -c conda-forge python-sounddevice
+- pip install jupyter
+
 1. Clone the repo. This will get the jupyter notebook along with 'call_recording'
 directory that contains wav files that have the recorded instructions.
 2. Simply run all the cells of the jupyter notebook downloaded.
